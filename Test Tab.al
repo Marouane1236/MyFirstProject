@@ -6,7 +6,7 @@ table 50100 test table
     {
         field(1;MyField;Integer)
         {
-            DataClassification = ToBeClassified;
+            DataClassification = ToBeClassified; // comm
         }
     }
 
