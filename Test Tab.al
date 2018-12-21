@@ -1,4 +1,4 @@
-table id MyTable
+table 50100 test table
 {
     DataClassification = ToBeClassified;
     
